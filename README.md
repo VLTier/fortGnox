@@ -31,7 +31,7 @@ Although __fortGnox__ was mainly developed under Linux, it is already used by pe
 
 
 ## Basic Installation ##
-
+ 
 ### Prerequisites
 - Install Java (e.g. https://jdk.java.net/archive/, https://learn.microsoft.com/de-de/java/openjdk/download)
 - Install GPG
